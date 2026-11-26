@@ -1,0 +1,10 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: kyriacos.georgiou@brown.edu # your email address
+scholar_userid: qoee7o8AAAAJ # your Google Scholar ID
+github_username: kygeor # your GitHub user name
+linkedin_username: kygeorgiou # your LinkedIn user name
+youtube_id: erevna_science # Erevna podcast channel
+cv_pdf: https://drive.google.com/file/d/1Esl1XACVBgAmgNGI5mldrYpLZQbVgrfZ/view # path to your CV PDF file
+rss_icon: true # comment this line to hide the RSS icon

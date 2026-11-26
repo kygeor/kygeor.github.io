@@ -1,0 +1,9 @@
+github_users:
+  - kygeor
+
+repo_description_lines_max: 2
+
+github_repos:
+  - kygeor/Fredholm-Neural-Networks-Py
+  - kygeor/DNNs_for_PIDE_solutions
+  - kygeor/Markov_chain_lumpability

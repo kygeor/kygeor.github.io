@@ -1,0 +1,20 @@
+"SISC":
+  url: https://epubs.siam.org/journal/sjoce3
+  color: "#00487c"
+
+"EJOR":
+  url: https://www.sciencedirect.com/journal/european-journal-of-operational-research
+  color: "#e9711c"
+
+"JIMO":
+  color: "#2b6f3e"
+
+"DSM":
+  color: "#6b4c9a"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"PhD":
+  color: "#555555"
