@@ -35,6 +35,6 @@ Previously, I completed my Ph.D. in the Department of Statistics at the Athens U
 
 I hold a BSc in Pure Mathematics from Imperial College London with First Class Honours and an MSc in Stochastic/Financial Mathematics from the LSE.
 
-I am also a co-founder and currently Scientific Advisor of the startup [finloup](https://finloup.com/), where I led the development of proprietary statistical and machine learning models for credit risk modelling using banking transactional data. For this work, I was included in the Forbes 30 Under 30 list for Greece ([article](https://www.forbesgreece.gr/forbes-30-under-30-2023/3678020/to-mathimatiko-mualo-tis-finloup)).
+I am also a co-founder and currently Chief AI Officer of the startup [finloup](https://finloup.com/), where I lead the AI infrastructure of the company for the assessment and monitoring of credit risk and the development of proprietary statistical and machine learning models for credit risk modelling using banking transactional data. For this work, I was included in the Forbes 30 Under 30 list for Greece ([article](https://www.forbesgreece.gr/forbes-30-under-30-2023/3678020/to-mathimatiko-mualo-tis-finloup)).
 
 **[Download my CV (PDF)](https://drive.google.com/uc?export=download&id=1Esl1XACVBgAmgNGI5mldrYpLZQbVgrfZ)**
